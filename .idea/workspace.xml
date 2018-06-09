@@ -11,29 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="conexao1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conexao1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insercao.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/insercao.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="atualizando.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="atualizando.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/atualizando.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="88">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excluindo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/excluindo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -49,6 +40,7 @@
         <option value="$PROJECT_DIR$/conexao1.php" />
         <option value="$PROJECT_DIR$/insercao.php" />
         <option value="$PROJECT_DIR$/atualizando.php" />
+        <option value="$PROJECT_DIR$/excluindo.php" />
       </list>
     </option>
   </component>
@@ -66,6 +58,9 @@
     <option name="y" value="47" />
     <option name="width" value="1221" />
     <option name="height" value="644" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -114,12 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528505998406</updated>
-      <workItem from="1528506000215" duration="4715000" />
+      <workItem from="1528506000215" duration="5308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4715000" />
+    <option name="totallyTimeSpent" value="5308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -169,8 +164,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/atualizando.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="88">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excluindo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
